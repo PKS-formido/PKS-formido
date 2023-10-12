@@ -32,5 +32,5 @@ Mail me at "praveenkumar.connects@gmail.com"
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PKS-formido&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=PKS-formido&label=Visitors+Count&color=brightgreen)
 </div>
